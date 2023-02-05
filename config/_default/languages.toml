@@ -1,7 +1,7 @@
-################# English language ################
+################# Spanish language ################
 [es]
 languageName = "Español"
-languageCode = "en-AR"
+languageCode = "es-AR"
 contentDir = "content/spanish"
 weight = 1
 

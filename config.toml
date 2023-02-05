@@ -1,4 +1,5 @@
 baseURL = 'http://example.org/'
-languageCode = 'es-ar'
+languageCode = 'es-AR'
+defaultContentLanguage = 'es'
 title = 'My New Hugo Site'
 theme = 'airspace-hugo'
