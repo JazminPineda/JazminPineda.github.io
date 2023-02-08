@@ -1,14 +1,14 @@
 ---
-title: "Our Pricing"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
-layout: "pricing"
-draft: false
+# title: "Our Pricing"
+# description: "this is meta description"
+# bg_image: "images/feature-bg.jpg"
+# layout: "pricing"
+# draft: false
 
 ################################ pricing ################################
 pricing:
-  enable : true
-  pricing_table:
+  # enable : true
+  # pricing_table:
   # pricing table loop
   - name : "Basic"
     price: "$99"

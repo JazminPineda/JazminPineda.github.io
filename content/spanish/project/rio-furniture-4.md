@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 # image : "images/portfolio/work4.jpg"
 # bg_image: "images/feature-bg.jpg"
-category: "UI/UX Design"
+category: "Power BI"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

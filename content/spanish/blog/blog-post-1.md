@@ -5,7 +5,7 @@ author: Jaz
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Company News"]
-tags: ["Advice","Technology"]
+tags: ["Reflexiones","Tecnologia"]
 description: "this is meta description"
 draft: false
 type: "post"

@@ -8,7 +8,7 @@ banner:
   content: "..."
   button:
     enable: true
-    label: "Mis projectos"
+    label: "Mis proyectos"
     link: "project/"
 
 ############################# About #################################

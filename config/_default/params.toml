@@ -17,16 +17,17 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "0124857985320"
-email = "demo@email.com"
+phone = "11-25694330"
+email = "jazmin.pineda940@hotmail.com"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
+**Caballito**  
+Buenos Aires, Capital Federal
+Argentina
 """
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+#copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -92,16 +93,16 @@ baidu = "" # Your verification code
 [gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "-34.6166562"
+map_longitude = "-58.4447302"
 map_marker = "images/marker.png"
 
 # cookies
 [cookies]
 enable = false
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Este sitio utiliza cookies. Si continúa navegando, consideramos que acepta su uso."
+button = "Acepto"
 
 ######################## sidebar widgets #########################
 [widgets]
@@ -109,27 +110,27 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 # available widget : categories,tags,recent-post
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "facebook"
+# icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "twitter"
+# icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "instagram"
+# icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
 [[social]]
 title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://github.com/JazminPineda"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.linkedin.com/in/jazminpineda/"

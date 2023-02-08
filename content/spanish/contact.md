@@ -1,6 +1,9 @@
 ---
 title: " Me puedes contactar"
-description: "Espero que te haya sido de gran utilidad esta pagina y mi colexión de recursos que quizas pueda servirte, gracias por bisitarme y si deseas contactarme puedes enviarme un mail. Exítos en tu camino!"
+description: "Gracias por visitar mi sitio web. Espero que hayas encontrado información valiosa y útil. Si tienes preguntas o sugerencias, no dudes en enviarme un correo electrónico.
+
+Estoy aquí para ayudarte y apoyarte en tu camino hacia el éxito. ¡Será un placer conocer tu história!"
+
 bg_image: "images/feature-bg.jpg"
 layout: "contact"
 draft: false

@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
+title: "App AniMach"
 description: "this is meta description"
-draft: false
+draft: true
 image : "images/portfolio/work2.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Illustration"
+category: " Diseño App"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
