@@ -15,8 +15,15 @@ banner:
 about:
   enable: true
   title: "Sobre mi"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  description: "Mi objetivo es aplicar mis habilidades y conocimientos para contribuir al éxito empresarial y desarrollarme profesionalmente en el campo de la ciencia de datos"
+  content: "He participado en proyectos contables y fiscales para multinacionales, incluyendo el procesamiento, liquidación y pago de impuestos, así como la atención a auditorías internas y externas.
+
+  
+  Actualmente, estoy enfocada en ampliar mis habilidades en tecnología y análisis de datos, utilizando herramientas como Python, Power BI y MySQL para generar modelos eficientes y dashboard que den respuestas a los objetivos de la organizaicón.  
+
+
+  Estoy comprometida con proyectos que impliquen la implementación de soluciones tecnológicas innovadoras, análisis de impacto en la organización y procesos basados en la ciencia de datos
+"
   image: "images/blog/blog-post-5.jpg"
 
 
@@ -24,63 +31,72 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "¿Qué sería la vida sin las relaciones?"
+  content: "Todo comienza con un Pensamiento 
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Al igual que en la naturaleza, también es importante establecer relaciones en la sociedad para crecer juntos y lograr un equilibrio. 
+  
 
+  La nueva era Digital me permite seguir aprendiendo, entregar valor y contribuir al crecimiento y desarrollo de la sociedad a través de mi aprendizaje y experiencia en tecnología y análisis de datos. 
+  
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  A continuación  comparto mis conocimientos adquiridos en proyectos propios, algunas reflexiones que me realice durante mi proceso de formación y herramientas útiles que puedan ayudarlo en su camino.
+
+  
   "
   button:
     enable: true
-    label: "View Works"
+    label: "Ver Trabajos"
     link: "project/"
 
 
 ############################# Service ############################
-service:
-  enable: true
+# service:
+  # enable: true
   # service content comes from "service.md" file
 
 
 ############################ call to action ###########################
+enable: true
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Dime qué datos deseas analizar y te brindaré la solución adecuada"
+  content: "Estoy ansiosa por conocer cuál es tu necesidad y cómo puedo ayudarte a resolver cualquier desafío que estés enfrentando. 
+  
+  
+  Por favor, compárteme qué problema o dolor estás tratando de solucionar y juntos encontraremos una solución efectiva, "
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "Cuentame tu historia"
     link: "contact/"
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-  funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
+  # enable: true
+  # title: "Fun Facts About Us"
+  # description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  # funfact_item:
+  # # funfacts item loop
+  # - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
+  #   name: "Cups Of Coffee"
+  #   count: "99"
 
-  # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
+  # # funfacts item loop
+  # - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
+  #   name: "Article Written"
+  #   count: "45"
 
-  # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
+  # # funfacts item loop
+  # - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
+  #   name: "Projects Completed"
+  #   count: "125"
 
-  # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
+  # # funfacts item loop
+  # - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
+  #   name: "Combined Projects"
+  #   count: "200"
 
   # testimonial_slider:
   # # testimonial item loop

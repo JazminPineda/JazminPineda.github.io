@@ -4,7 +4,7 @@ description: "Proyecto trabajo de grado para t´tulo"
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/feature-bg.jpg"
-category: [ "APP Design", "Video" ]
+category: [ "App Design", "Video" ]
 information:
   - label : "Titulo"
     info : "Aplicación eKchý"

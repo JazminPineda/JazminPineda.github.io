@@ -7,12 +7,12 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
+name = "Acerca de mi"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "Project"
+name = "Proyectos"
 url = "project/"
 weight = 3
 
@@ -23,29 +23,29 @@ weight = 4
 
 [[main]]
 weight = 5
-name = "More"
+name = "Mas"
 hasChildren = true
 
   [[main]]
-  parent = "More"
-  name = "Service"
+  parent = "Mas"
+  name = "Servicios"
   url = "service/"
   weight = 1
 
-  [[main]]
-  parent = "More"
-  name = "Pricing"
-  url = "pricing/"
-  weight = 2
+  # [[main]]
+  # parent = "More"
+  # name = "Pricing"
+  # url = "pricing/"
+  # weight = 2
 
-  [[main]]
-  parent = "More"
-  name = "FAQ"
-  url = "faq/"
-  weight = 3
+  # [[main]]
+  # parent = "More"
+  # name = "FAQ"
+  # url = "faq/"
+  # weight = 3
   
 [[main]]
-name = "Contact"
+name = "Contacto"
 url = "contact/"
 weight = 6
 

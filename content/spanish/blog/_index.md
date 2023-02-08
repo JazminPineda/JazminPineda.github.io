@@ -1,7 +1,8 @@
 ---
-title: "No es un Error es Conocimiento "
-description: "Este es mi espacio donde comparto de manera abierta todos mis pensamientos y mis descubrimientos que eh enlasado en mi camino. Es una bitacora o mi gran librillo de aprendizajes, donde recopilo gran parte de mi conocimiento, mis proyectos, mies pensamientos y  mi camino, donde detallo mis primeros pasos para el desarrollo de mi carrera como Analista de Datos.
-Esperando de que sean muy utiles para quien comienza en este mundo."
+title: " El mayor error, es estar demasiado asustado de cometer uno. (Gregory Benford)"
+description: " Únete a mí, en un viaje de auto-descubrimiento y crecimiento profesional. Compartiré con ustedes mi camino como Analista de Datos, incluyendo mis pensamientos, proyectos y aprendizajes. 
+
+Mi blog es un lugar donde expongo mis reflexiones y logros, un registro de mis primeros pasos en este apasionante mundo. No importa si eres principiante o un profesional experimentado, estoy seguro de que encontrarás algo de valor en estas páginas. Prepárate para descubrir, aprender y motivarte en tu propio camino como Analista de Datos."
 draft: false
 bg_image: "images/feature-bg.jpg"
 ---
