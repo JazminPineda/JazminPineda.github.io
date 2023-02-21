@@ -1,64 +1,28 @@
 ---
-title: "Comenzando una nueva etapa de mi vida"
-date: 2023-01-24 T11:07:10+06:00
+title: "Trazando mi camino hacia la Ciencia de Datos "
+date: 2023-01-04T11:07:10+06:00
 author: Jaz 
-image : "images/blog/blog-post-1.jpg"
+image : "images/blog/work4.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Company News"]
-tags: ["Reflexiones","Tecnologia"]
-description: "this is meta description"
+categories: ["Analista de Datos"]
+tags: ["Reflexiones","Retro"]
+# description: "this is meta description"
 draft: false
 type: "post"
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+A veces llega un momento en la vida en el que tenemos que tomar decisiones cruciales que pueden afectar nuestro futuro por completo. 
+Sabemos en lo profundo de nuestro ser que necesitamos dar un salto para no quedarnos estancados, pero como seres humanos, la duda y el miedo a la incertidumbre nos invaden, y experimentamos una crisis existencial. 
+ </p>
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+> En estos momentos, nos hacemos muchas preguntas y nos resistimos al cambio porque sabemos que conlleva un nuevo esfuerzo y nos obliga a salir de nuestra zona de confort para empezar de nuevo.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+Probablemente algunos se pregunten: ¿por qué estudiar Ciencia de Datos? ¿Es solo una moda o una tendencia temporal? En mi caso, esta decisión fue el resultado de un proceso de desarrollo profesional. Durante mi carrera como contadora, empecé a trabajar como técnica contable en la empresa de software Novasoft, donde empecé a tener curiosidad por cómo funcionaban los sistemas y a entender la lógica de negocio. 
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+Al principio parecía complicado, pero al conocer proyectos, requerimientos y beneficios de la gestión de tareas como la liquidación de nóminas y organización contable, vi el valor de aprender algoritmos y modelación en mi campo de trabajo.</p>
 
+A medida que ha pasado el tiempo, he comprendido que las nuevas tecnologías han generado un cambio en la forma en que se hacen negocios. Es esencial entender la programación, modelado de procesos y ciclos para comprender el modelo de negocio y descubrir soluciones a los desafíos empresariales en constante evolución. Es por eso que decidí estudiar hace dos años Análisis de Sistemas, lo que me proporcionó un mejor entendimiento de cómo analizar los requerimientos del negocio, diseñar la estructura de almacenamiento de datos, procesarlos eficientemente y utilizar diversas tecnologías para gestionar la información y extraer conocimientos valiosos. Con estas habilidades, puedo estructurar los datos de manera efectiva para su procesamiento y extracción de información valiosa. </p>
 
-* hello
-* hello
-* hello
-* hello
-* hello
-
-1. hello
-2. hello
-3. hello
-4. hello
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+Considero fundamental seguir formándome en Ciencia de Datos, ya que esta disciplina abarca conocimientos profundos que me permitirán enfrentar los nuevos desafíos empresariales y descubrir oportunidades de mejora, podré analizar grandes cantidades de información, identificar patrones y tendencias, y tomar decisiones estratégicas en función de los resultados obtenidos.
+Además, en un mundo cada vez más digital y tecnológico, la demanda de profesionales en este campo es cada vez mayor, lo que me brinda amplias posibilidades de desarrollo y crecimiento profesional. Por estas razones, he decidido adquirir las habilidades necesarias para afrontar los retos y oportunidades del futuro con confianza y éxito.</p>

@@ -1,13 +1,13 @@
 ---
-title: "How To Wear Bright Shoes"
+# title: "How To Wear Bright Shoes"
 date: 2018-09-24T11:07:10+06:00
-author: [ "Mark Dinn", "John Doe" ]
+author: [ "Jazmin Pineda" ]
 # image : "images/blog/blog-post-2.jpg"
 # bg_image: "images/feature-bg.jpg"
-categories: ["Artificial Intelligence"]
-tags: ["Advice","Retro"]
+categories: ["Reflexiones"]
+tags: ["Consejos","Retro"]
 description: "this is meta description"
-draft: false
+draft: true
 type: "post"
 ---
 
