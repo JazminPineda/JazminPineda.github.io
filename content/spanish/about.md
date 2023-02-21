@@ -9,7 +9,7 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/david-clode-EknN2SI7X80-unsplash.jpg
+  image : "images/company/about.jpg"
   title : "Comprometida con la calidad y eficiencia."
   content : "
 
