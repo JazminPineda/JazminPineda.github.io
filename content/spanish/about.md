@@ -9,7 +9,7 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
+  image : "images/company/david-clode-EknN2SI7X80-unsplash.jpg
   title : "Comprometida con la calidad y eficiencia."
   content : "
 
@@ -38,7 +38,7 @@ Como profesional altamente flexible, tengo una mentalidad orientada a la colabor
   # funfacts loop
   - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
     name : "Líneas de código"
-    count : "3000"
+    count : "300"
 
   # funfacts loop
   # - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
