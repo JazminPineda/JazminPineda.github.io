@@ -27,7 +27,7 @@ Como profesional altamente flexible, tengo una mentalidad orientada a la colabor
   button:
     enable : true
     label : "Descarga CV"
-    link : "https://docs.google.com/viewer?url=https://github.com//JazminPineda/CV/raw/001b045962111d92bb07518f1c2c0952347f112e/Jazmin%20Pineda.pdf"
+    link : "https://docs.google.com/viewer?url=https://github.com//JazminPineda/CV/raw/795b0df8c3dce1d04971ae4dd28d9c0a53903954/Jazmin%20Pineda.pdf"
 
   funfacts:
   # funfacts loop
