@@ -6,7 +6,7 @@ image : "images/blog/blog-post-1.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Carrera"]
 tags: ["Consejos","Retro"]
-draft: false
+draft: true
 # type: "post"
 ---
 
