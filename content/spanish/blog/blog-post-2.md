@@ -7,7 +7,7 @@ bg_image: "images/feature-bg.jpg"
 categories: ["Reflexiones"]
 tags: ["Consejos","Retro"]
 description: "this is meta description"
-draft: true
+draft: false
 type: "post"
 ---
 
