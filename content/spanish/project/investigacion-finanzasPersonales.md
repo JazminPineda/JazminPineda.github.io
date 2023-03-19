@@ -1,6 +1,6 @@
 ---
 title: "Proyecto de Investigación Educación Financiera "
-description: "Aplicar conocimientos en ciencia de datos para comprender la situación financiera de las personas y promover la educación financiera en la sociedad"
+description: "Aplicar conocimientos en ciencia de datos para comprender la Educación Financiera de las personas y promoverla en la sociedad"
 draft: false
 image : "images/portfolio/work2.jpg"
 bg_image: "images/feature-bg.jpg"
