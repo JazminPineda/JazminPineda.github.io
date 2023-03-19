@@ -1,15 +1,15 @@
 ---
 title: "Proyecto de Investigación Educación Financiera "
-description: "Busco ganar experiencia en el Análisis de Datos de varias fuentes para brindar soluciones a los problemas"
+description: "Aplicar conocimientos en ciencia de datos para comprender la situación financiera de las personas y promover la educación financiera en la sociedad"
 draft: false
 image : "images/portfolio/work2.jpg"
 bg_image: "images/feature-bg.jpg"
 category: "Educación"
 information:
   - label : "Titulo"
-    info : "Investigación Educación Financiera y hábitos de Inversión"
+    info : "Educación Financiera y hábitos de Inversión"
   - label : "Lo que busco"
-    info : "Responder a la pregunta: ¿Cómo influyen los factores económicos, educativos y socioeconómicos en la situación financiera personal de los jóvenes que inician su etapa laboral en la generación millennials y Z?"
+    info : "Explorar los factores económicos, educativos y socioeconómicos que influyen en la toma de decisiones financieras de jóvenes millennials y Z."
   - label : "Herramientas utilizadas"
     info : "Python | Analytics | Forms Google/Microsoft"
   - label : "En proceso 1 Etapa"
@@ -37,11 +37,10 @@ Sin embargo, el comportamiento de consumo de estos jóvenes ha aumentado, lo que
 ### Pregunta
 ¿Cómo influyen los factores económicos, educativos y socioeconómicos en la situación financiera personal de los jóvenes que inician su etapa laboral en la generación millennials y Z?
 
-##  Marco teórico
-¿Que es La educación financiera?
+##  ¿Que es La educación financiera?
+
 Se refiere al conjunto de habilidades y conocimientos necesarios para tomar decisiones financieras informadas y responsables. La encuesta que estoy realizando tiene como objetivo comprender mejor la situación financiera de las personas y cómo la educación financiera puede ayudar a mejorarla.
 
 Factores a investigar:
 Calidad de vida, cultura de familia, concientizar en el consumo, economía mundial, cultura del pensamiento económico.
 
-Encuesta:
