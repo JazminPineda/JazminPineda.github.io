@@ -34,7 +34,7 @@ Finalmente, se explorará la relación entre el endeudamiento personal y la situ
 Durante los últimos 20 años, el avance tecnológico ha generado cambios significativos a nivel socioeconómico, tecnológico y de consumo. En este contexto, muchos jóvenes que terminan la secundaria y comienzan su etapa productiva y universitaria tienen amplias opciones de créditos estudiantiles y oportunidades de financiamiento, así como acceso a nuevas tecnologías que les permiten invertir o crear contenido en plataformas como YouTube, Instagram o Microjobs, generando fuentes de ingresos pasivos.
 Sin embargo, el comportamiento de consumo de estos jóvenes ha aumentado, lo que ha generado un incremento en el endeudamiento. Este hecho plantea interrogantes sobre la educación financiera recibida por estos jóvenes en su hogar y en su etapa secundaria, sobre los conceptos que tienen de calidad de vida y si realmente tienen un proyecto de vida a largo plazo, incluyendo su jubilación.
 
-### Pregunta
+#### Pregunta
 ¿Cómo influyen los factores económicos, educativos y socioeconómicos en la situación financiera personal de los jóvenes que inician su etapa laboral en la generación millennials y Z?
 
 ##  ¿Que es La educación financiera?
