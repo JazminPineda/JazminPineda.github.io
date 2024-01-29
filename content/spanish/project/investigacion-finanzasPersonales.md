@@ -8,11 +8,11 @@ category: "Educación"
 information:
   - label : "Titulo"
     info : "Educación Financiera y hábitos de Inversión"
-  - label : "Lo que busco"
+  - label : "Objetivo"
     info : "Explorar los factores económicos, educativos y socioeconómicos que influyen en la toma de decisiones financieras de jóvenes millennials y Z."
   - label : "Herramientas utilizadas"
     info : "Python | Analytics | Forms Google/Microsoft"
-  - label : "En proceso 1 Etapa"
+  - label : "En proceso 2 Etapa"
     info : "01  Marzo 2023"
   - label : "Skills"
     info : "Planififación|Análisis|Diseño"
@@ -43,4 +43,6 @@ Se refiere al conjunto de habilidades y conocimientos necesarios para tomar deci
 
 Factores a investigar:
 Calidad de vida, cultura de familia, concientizar en el consumo, economía mundial, cultura del pensamiento económico.
+
+
 
