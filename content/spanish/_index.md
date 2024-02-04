@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/david-clode-EknN2SI7X80-unsplash2.jpg"
+  bg_image: "images/image-blog.jpg"
   bg_overlay: true
   title: "Bienvenido a mi mundo <br/> de datos"
   content: "..."

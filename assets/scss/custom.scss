@@ -6,15 +6,31 @@
     font-size: 15px;
     font-family: roboto,sans-serif;
 }
-
+.pwrbi-iframe {
+  height: 812px;
+}
 a,
 a:focus,
 a:hover {
   text-decoration: none;
   outline: 0;
-  color: Blue;
+  color: rgb(155, 30, 197);
 }
 
 .portfolio-item img {
   height: 240px;
+}
+.portfolio-hover {
+  background: rgba(255, 255, 255, 0.8);
+}
+.portfolio-content * {
+  color: black;
+}
+
+.overly:before, .page-title:before {
+  background: rgba(155, 30, 197, 0.521);
+}
+
+.btn-main, .btn-small, .btn-transparent {
+  background: rgb(155, 30, 197);
 }
