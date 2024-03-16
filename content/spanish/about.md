@@ -20,7 +20,7 @@ Sin embargo, mi interés por la tecnología y el análisis de datos me ha llevad
 
 
 
-Como profesional altamente flexible, tengo una mentalidad orientada a la colaboración y al aprendizaje continuo. A lo largo de mi experiencia, he desarrollado un pensamiento crítico y habilidades de autogestión, combinando mi creatividad y capacidad resolutiva para lograr objetivos y cumplir con los compromisos asumidos en cualquier proyecto que tenga en mis manos.
+Como profesional estoy enfocada a la colaboración y al aprendizaje continuo. A lo largo de mi experiencia, he desarrollado un pensamiento crítico y habilidades de autogestión, combinando mi creatividad y capacidad resolutiva para lograr objetivos y cumplir con los compromisos asumidos en cualquier proyecto que tenga en mis manos.
 
 "
 
@@ -33,7 +33,7 @@ Como profesional altamente flexible, tengo una mentalidad orientada a la colabor
   # funfacts loop
   - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
     name : "Proyectos"
-    count : "2"
+    count : "5"
 
   # funfacts loop
   - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
