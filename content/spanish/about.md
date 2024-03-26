@@ -13,7 +13,7 @@ about:
   title : "Comprometida con la calidad y eficiencia."
   content : "
 
-Como Analista de Sistemas y Contador Público con más de 10 años de experiencia en Análisis Administrativo y Contable, he trabajado en proyectos de élite en empresas reconocidas como Deloitte y KPMG. Durante mi carrera, he contribuido en la automatización de procesos contables y fiscales, incluyendo la liquidación de impuestos y el pago de impuestos, y he brindado apoyo en auditorías internas y externas, así como en requerimientos de entidades Tributarias.
+Como Especialista en Business Inteligence & Data Analytics y de profesión Contador Público, con más de 13 años de experiencia en Análisis Administrativo y Contable, he trabajado en proyectos de élite en empresas reconocidas como Deloitte y KPMG. Durante mi carrera, he contribuido en la automatización de procesos contables y fiscales, incluyendo la liquidación de impuestos y el pago de impuestos, y he brindado apoyo en auditorías internas y externas, así como en requerimientos de entidades Tributarias.
 
 
 Sin embargo, mi interés por la tecnología y el análisis de datos me ha llevado a ampliar mis conocimientos en herramientas como Python, Power BI y SQL, con el objetivo de crear modelos y reportes de valor para la toma de decisiones. Estoy en busca de proyectos que me permitan aplicar mis habilidades en la implementación de soluciones tecnológicas, el análisis de impacto en la organización y procesos basados en la ciencia de datos.
